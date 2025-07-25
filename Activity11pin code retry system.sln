@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity11pin code retry system", "Activity11pin code retry system.csproj", "{8E3A99A4-B7CD-4624-B676-DA2AEF352336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E3A99A4-B7CD-4624-B676-DA2AEF352336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3A99A4-B7CD-4624-B676-DA2AEF352336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3A99A4-B7CD-4624-B676-DA2AEF352336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3A99A4-B7CD-4624-B676-DA2AEF352336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41811E8C-D8F1-427D-A809-5F3C941EE928}
+	EndGlobalSection
+EndGlobal
